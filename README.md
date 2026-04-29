@@ -4,7 +4,7 @@
 
 A curated set of practical data analysis exercises implemented in a single Jupyter Notebook (`Task-Questions.ipynb`). Each “task” addresses a real-world question—ranging from revenue aggregation to date/time cleanup—using Python, Pandas, NumPy, and SQL-style logic.
 
---- 
+---  
                                 
 ## 📖 Table of Contents                        
 
